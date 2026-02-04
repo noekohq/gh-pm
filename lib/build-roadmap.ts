@@ -57,7 +57,7 @@ if (!GEMINI_API_KEY) {
 
 const ai = new GoogleGenAI({ apiKey: process.env.GEMINI_API_KEY });
 
-async function main() {
+export async function main() {
   const data =
     (await $`gh project item-list ${PROJECT_NUMBER} --owner ${ORG_NAME} --format json`
       .quiet()
