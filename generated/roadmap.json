@@ -1,8 +1,16 @@
 [
   {
+    "id": "PVTI_lADODsoyMM4BJ9pczgjDBW4",
+    "title": "[POLISH]:  Improving checkbox UI",
+    "summary": "Get ready for a smoother workflow with our updated checkboxes, now visibly bigger, effortlessly clickable, and easily draggable for superior organization.",
+    "status": "Shipped",
+    "url": "https://github.com/noekohq/Noeko/issues/77",
+    "labels": []
+  },
+  {
     "id": "PVTI_lADODsoyMM4BJ9pczgjDA2w",
     "title": "Polish Editor Collaboration Features",
-    "summary": "Enjoy a significantly enhanced editor collaboration experience, with clearer syncing and a more intuitive way to work seamlessly with your team.",
+    "summary": "Experience a smoother and more intuitive collaborative editing environment, designed to make working with your team clearer and more effortless than ever.",
     "status": "Shipped",
     "url": "https://github.com/noekohq/Noeko/issues/76",
     "labels": []
@@ -10,7 +18,7 @@
   {
     "id": "PVTI_lADODsoyMM4BJ9pczgjCuVw",
     "title": "Update file handling in editor",
-    "summary": "Prepare for an intuitive new file management experience in the editor, empowering you to effortlessly organize, add, and control all your embedded images and attachments.",
+    "summary": "Get ready for an intuitive new control center right in the editor, making it easier than ever to manage, download, and customize all your files and images!",
     "status": "Now",
     "url": "https://github.com/noekohq/Noeko/issues/62",
     "labels": []
@@ -18,7 +26,7 @@
   {
     "id": "PVTI_lADODsoyMM4BJ9pczgjBoBA",
     "title": "Make a more comprehensive search view",
-    "summary": "Prepare to discover information more efficiently with an enhanced search that lets you filter by tags and instantly save your filtered knowledge into new Compendiums.",
+    "summary": "Get ready to precisely filter your knowledge by tags and effortlessly save your most refined searches as custom Compendiums.",
     "status": "Next",
     "url": "https://github.com/noekohq/Noeko/issues/61",
     "labels": []
@@ -26,7 +34,7 @@
   {
     "id": "PVTI_lADODsoyMM4BJ9pczgjC4Aw",
     "title": "Improving Connectable Transclusions",
-    "summary": "Soon, you'll have exciting new ways to seamlessly embed and preview linked content directly within your notes, making your layouts more intuitive and powerful.",
+    "summary": "Prepare to seamlessly integrate and visualize your connected notes with powerful new display options, offering flexible layouts and rich content previews directly within your workspace.",
     "status": "Next",
     "url": "https://github.com/noekohq/Noeko/issues/68",
     "labels": []
@@ -34,7 +42,7 @@
   {
     "id": "PVTI_lADODsoyMM4BJ9pczgjDD4o",
     "title": "Prep Noeko for self-hostability and public release",
-    "summary": "Prepare for the exciting launch of Noeko, introducing flexible self-hosting and robust enterprise features for unparalleled control.",
+    "summary": "We're preparing to launch Noeko's self-hostable version, empowering you with complete control and access to premium enterprise features.",
     "status": "Next",
     "url": "https://github.com/noekohq/Noeko/issues/78",
     "labels": []
@@ -42,7 +50,7 @@
   {
     "id": "PVTI_lADODsoyMM4BJ9pczgjHko4",
     "title": "Polish Existing Themes & Add More",
-    "summary": "Soon, you'll enjoy a fresh, modern look for your Noeko workspace with improved existing themes and an expanded library of beautiful new designs.",
+    "summary": "Soon, you'll enjoy a beautifully refreshed interface with enhanced themes and a wider selection of gorgeous new designs to truly make Noeko your own.",
     "status": "Next",
     "url": "https://github.com/noekohq/Noeko/issues/84",
     "labels": []
