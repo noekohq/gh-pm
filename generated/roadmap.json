@@ -2,7 +2,7 @@
   {
     "id": "PVTI_lADODsoyMM4BJ9pczgjDA2w",
     "title": "Polish Editor Collaboration Features",
-    "summary": "Polish Editor Collaboration Features",
+    "summary": "Collaborate with unparalleled ease and clarity in the editor, thanks to refined real-time teamwork features that keep everyone perfectly in sync.",
     "status": "Shipped",
     "url": "https://github.com/noekohq/Noeko/issues/76",
     "labels": []
@@ -10,7 +10,7 @@
   {
     "id": "PVTI_lADODsoyMM4BJ9pczgjCuVw",
     "title": "Update file handling in editor",
-    "summary": "Update file handling in editor",
+    "summary": "Introducing a powerful new file management area that empowers you with seamless control to organize, download, or remove your embedded images and files directly within the editor.",
     "status": "Now",
     "url": "https://github.com/noekohq/Noeko/issues/62",
     "labels": []
@@ -18,7 +18,7 @@
   {
     "id": "PVTI_lADODsoyMM4BJ9pczgjC4Aw",
     "title": "Improving Connectable Transclusions",
-    "summary": "Improving Connectable Transclusions",
+    "summary": "Get ready to experience powerful new ways to display your linked content, providing rich visual context and empowering you to structure your notes exactly as you think.",
     "status": "Next",
     "url": "https://github.com/noekohq/Noeko/issues/68",
     "labels": []
@@ -26,7 +26,7 @@
   {
     "id": "PVTI_lADODsoyMM4BJ9pczgjDD4o",
     "title": "Prep Noeko for self-hostability and public release",
-    "summary": "Prep Noeko for self-hostability and public release",
+    "summary": "Soon, you'll be able to host Noeko on your own infrastructure, unlocking advanced enterprise capabilities and greater control over your operations.",
     "status": "Next",
     "url": "https://github.com/noekohq/Noeko/issues/78",
     "labels": []
