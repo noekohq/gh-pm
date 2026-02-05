@@ -36,8 +36,8 @@ export interface RoadmapItem {
 const GEMINI_API_KEY = process.env.GEMINI_API_KEY;
 const ORG_NAME = process.env.GH_ORG_NAME;
 const PROJECT_NUMBER = process.env.GH_PROJECT_NO;
-const TARGET_FIELD = process.env.GH_TARGET_FIELD as keyof GitHubProjectItem;
-const GEMINI_MODEL = process.env.GEMINI_MODEL;
+const TARGET_FIELD = (process.env.GH_TARGET_FIELD || "roadmap Horizon") as keyof GitHubProjectItem;
+const GEMINI_MODEL = process.env.GEMINI_MODEL || "gemini-2.5-flash";
 
 if (!ORG_NAME) {
   throw new Error("No GH_ORG_NAME defined");
@@ -99,8 +99,18 @@ export async function main() {
   const order = { Shipped: 0, Now: 1, Next: 2 };
   roadmap.sort((a, b) => order[a.status] - order[b.status]);
 
-  await Bun.write("data/roadmap.json", JSON.stringify(roadmap, null, 2));
-  console.log(`✅ Roadmap saved with ${roadmap.length} items.`);
+  // Split and limit Shipped (Done) items
+  const shipped = roadmap.filter(i => i.status === "Shipped").slice(0, 10);
+  const others = roadmap.filter(i => i.status !== "Shipped");
+  const finalRoadmap = [...shipped, ...others];
+
+  const outputDir = "generated";
+  if (!(await Bun.file(outputDir).exists())) {
+    await $`mkdir -p ${outputDir}`;
+  }
+
+  await Bun.write(`${outputDir}/roadmap.json`, JSON.stringify(finalRoadmap, null, 2));
+  console.log(`✅ Roadmap saved with ${finalRoadmap.length} items.`);
 }
 
 async function generateSummary(title: string, body: string, status: string) {
