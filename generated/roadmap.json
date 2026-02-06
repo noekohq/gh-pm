@@ -1,8 +1,16 @@
 [
   {
+    "id": "PVTI_lADODsoyMM4BJ9pczgkCM6A",
+    "title": "Add a roadmap page",
+    "summary": "Our new public roadmap is now live, giving you clear insight into what we've recently shipped, what's next, and what's on the horizon!",
+    "status": "Shipped",
+    "url": "https://github.com/noekohq/Noeko/issues/112",
+    "labels": []
+  },
+  {
     "id": "PVTI_lADODsoyMM4BJ9pczgjDBW4",
     "title": "[POLISH]:  Improving checkbox UI",
-    "summary": "Get ready for a smoother workflow with our updated checkboxes, now visibly bigger, effortlessly clickable, and easily draggable for superior organization.",
+    "summary": "Enjoy a more intuitive editing experience with our newly enhanced checkboxes, now bigger, easier to click, and fully draggable!",
     "status": "Shipped",
     "url": "https://github.com/noekohq/Noeko/issues/77",
     "labels": []
@@ -10,7 +18,7 @@
   {
     "id": "PVTI_lADODsoyMM4BJ9pczgjDA2w",
     "title": "Polish Editor Collaboration Features",
-    "summary": "Experience a smoother and more intuitive collaborative editing environment, designed to make working with your team clearer and more effortless than ever.",
+    "summary": "Our editor collaboration features have been polished to deliver a more intuitive and seamless real-time teamwork experience.",
     "status": "Shipped",
     "url": "https://github.com/noekohq/Noeko/issues/76",
     "labels": []
@@ -18,7 +26,7 @@
   {
     "id": "PVTI_lADODsoyMM4BJ9pczgjCuVw",
     "title": "Update file handling in editor",
-    "summary": "Get ready for an intuitive new control center right in the editor, making it easier than ever to manage, download, and customize all your files and images!",
+    "summary": "Exciting new controls are coming to the editor, giving you a centralized hub to easily manage, download, and add all your images and files.",
     "status": "Now",
     "url": "https://github.com/noekohq/Noeko/issues/62",
     "labels": []
@@ -26,7 +34,7 @@
   {
     "id": "PVTI_lADODsoyMM4BJ9pczgjBoBA",
     "title": "Make a more comprehensive search view",
-    "summary": "Get ready to precisely filter your knowledge by tags and effortlessly save your most refined searches as custom Compendiums.",
+    "summary": "Unlock the full power of your knowledge with an enhanced search that lets you filter by tags and save your precise findings into custom Compendiums.",
     "status": "Next",
     "url": "https://github.com/noekohq/Noeko/issues/61",
     "labels": []
@@ -34,7 +42,7 @@
   {
     "id": "PVTI_lADODsoyMM4BJ9pczgjC4Aw",
     "title": "Improving Connectable Transclusions",
-    "summary": "Prepare to seamlessly integrate and visualize your connected notes with powerful new display options, offering flexible layouts and rich content previews directly within your workspace.",
+    "summary": "We're preparing to launch powerful new ways to display connected notes and content, enabling you to better organize your thoughts with dynamic viewing options.",
     "status": "Next",
     "url": "https://github.com/noekohq/Noeko/issues/68",
     "labels": []
@@ -42,7 +50,7 @@
   {
     "id": "PVTI_lADODsoyMM4BJ9pczgjDD4o",
     "title": "Prep Noeko for self-hostability and public release",
-    "summary": "We're preparing to launch Noeko's self-hostable version, empowering you with complete control and access to premium enterprise features.",
+    "summary": "Prepare to unlock unparalleled control and enterprise-grade features as Noeko becomes available for self-hosting directly within your infrastructure.",
     "status": "Next",
     "url": "https://github.com/noekohq/Noeko/issues/78",
     "labels": []
@@ -50,7 +58,7 @@
   {
     "id": "PVTI_lADODsoyMM4BJ9pczgjHko4",
     "title": "Polish Existing Themes & Add More",
-    "summary": "Soon, you'll enjoy a beautifully refreshed interface with enhanced themes and a wider selection of gorgeous new designs to truly make Noeko your own.",
+    "summary": "Prepare for a major visual upgrade with polished existing themes and an exciting expansion of beautiful new design choices to personalize your Noeko experience.",
     "status": "Next",
     "url": "https://github.com/noekohq/Noeko/issues/84",
     "labels": []
