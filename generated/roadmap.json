@@ -1,64 +1,64 @@
 [
   {
     "id": "PVTI_lADODsoyMM4BJ9pczgkCM6A",
-    "title": "Introducing Our Public Product Roadmap",
-    "summary": "Explore our brand new public roadmap page, offering complete transparency into our past achievements, current focus, and future plans.",
+    "title": "Introducing Our New Public Roadmap",
+    "summary": "Discover our exciting new public roadmap, offering a transparent overview of recently shipped features, upcoming updates, and future plans to keep you fully informed.",
     "status": "Shipped",
     "url": "https://github.com/noekohq/Noeko/issues/112",
     "labels": []
   },
   {
     "id": "PVTI_lADODsoyMM4BJ9pczgjDBW4",
-    "title": "Enhanced Checkboxes",
-    "summary": "Enjoy a smoother and more intuitive experience with our newly enhanced checkboxes, now easier to click, drag, and perfectly aligned with our sleek interface.",
+    "title": "Effortless Checkboxes",
+    "summary": "Enjoy a more streamlined experience with our new and improved checkboxes, now bigger, easier to interact with, and perfectly aligned with our modern design.",
     "status": "Shipped",
     "url": "https://github.com/noekohq/Noeko/issues/77",
     "labels": []
   },
   {
     "id": "PVTI_lADODsoyMM4BJ9pczgjDA2w",
-    "title": "Seamless Co-editing Experience",
-    "summary": "Collaborate effortlessly and with greater transparency thanks to our refined real-time editing features, making teamwork smoother than ever.",
+    "title": "Elevated Collaboration Experience",
+    "summary": "Enjoy a significantly smoother and more intuitive collaboration experience in the editor, designed to make working together effortless.",
     "status": "Shipped",
     "url": "https://github.com/noekohq/Noeko/issues/76",
     "labels": []
   },
   {
     "id": "PVTI_lADODsoyMM4BJ9pczgjCuVw",
-    "title": "Enhanced File Management & Visual Control",
-    "summary": "Gain comprehensive control over your content with new tools to effortlessly manage, upload, link, and customize the visual display of all your files directly within the editor.",
+    "title": "Enhanced File Control",
+    "summary": "Gain complete control over your embedded files, allowing you to easily add, manage, and customize their appearance directly within the editor.",
     "status": "Now",
     "url": "https://github.com/noekohq/Noeko/issues/62",
     "labels": []
   },
   {
     "id": "PVTI_lADODsoyMM4BJ9pczgjBoBA",
-    "title": "Precision Search & Organization",
-    "summary": "Unlock a powerful new search experience that lets you precisely filter, sort, and organize your knowledge to easily find and save valuable insights.",
+    "title": "Advanced Search & Dynamic Knowledge Curation",
+    "summary": "Discover and organize your knowledge with unprecedented precision using our powerful new search filters, sorting options, and the ability to save custom collections of insights.",
     "status": "Next",
     "url": "https://github.com/noekohq/Noeko/issues/61",
     "labels": []
   },
   {
     "id": "PVTI_lADODsoyMM4BJ9pczgjC4Aw",
-    "title": "Flexible Content Integration",
-    "summary": "Experience enhanced flexibility and interactivity with connected notes, empowering you to structure and visualize your information more intuitively.",
+    "title": "Dynamic Content Views",
+    "summary": "Gain deeper insights and better organize your ideas with dynamic content views that adapt how you see and interact with your connected information.",
     "status": "Next",
     "url": "https://github.com/noekohq/Noeko/issues/68",
     "labels": []
   },
   {
     "id": "PVTI_lADODsoyMM4BJ9pczgjDD4o",
-    "title": "Noeko: Launching with Self-Hosting & Flexible Plans",
-    "summary": "Noeko is officially launching, offering the flexibility to self-host your data or select from tailored cloud-hosted plans that unlock powerful features.",
+    "title": "Unlock Noeko: Self-Hostability & Premium Plans",
+    "summary": "Get ready to experience Noeko on your own servers or through our enhanced cloud with flexible plans designed for every user.",
     "status": "Next",
     "url": "https://github.com/noekohq/Noeko/issues/78",
     "labels": []
   },
   {
     "id": "PVTI_lADODsoyMM4BJ9pczgjHko4",
-    "title": "A Fresh Look: Enhanced Themes & New Designs",
-    "summary": "Elevate your workspace with a vibrant collection of stunning new themes and significant improvements to existing favorites, ensuring a beautiful and personalized experience.",
+    "title": "Elevate Your Experience with Vibrant New Themes",
+    "summary": "Get ready for a stunning visual upgrade with refined existing themes and an exciting collection of brand-new aesthetic options to personalize your workspace.",
     "status": "Next",
     "url": "https://github.com/noekohq/Noeko/issues/84",
     "labels": []
