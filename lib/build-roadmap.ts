@@ -70,7 +70,7 @@ const ai = new GoogleGenAI({ apiKey: GEMINI_API_KEY });
 
 export async function main() {
   const data =
-    (await $`gh project item-list ${PROJECT_NUMBER} --owner ${ORG_NAME} --format json`
+    (await $`gh project item-list ${PROJECT_NUMBER} --owner ${ORG_NAME} --limit 100 --format json`
       .quiet()
       .json()) as ProjectResponse;
 
@@ -115,7 +115,7 @@ export async function main() {
   const others = roadmap.filter((i) => i.status !== "Shipped");
   const finalRoadmap = [...shipped, ...others];
 
-  const outputDir = "generated";
+  const outputDir = "out";
   if (!(await Bun.file(outputDir).exists())) {
     await $`mkdir -p ${outputDir}`;
   }
