@@ -115,7 +115,8 @@ export async function main() {
   const others = roadmap.filter((i) => i.status !== "Shipped");
   const finalRoadmap = [...shipped, ...others];
 
-  const outputDir = "out";
+  const outputDir = process.env.GITHUB_ACTIONS ? "generated" : "out";
+
   if (!(await Bun.file(outputDir).exists())) {
     await $`mkdir -p ${outputDir}`;
   }
@@ -124,7 +125,9 @@ export async function main() {
     `${outputDir}/roadmap.json`,
     JSON.stringify(finalRoadmap, null, 2),
   );
-  console.log(`✅ Roadmap saved with ${finalRoadmap.length} items.`);
+  console.log(
+    `✅ Roadmap saved to ${outputDir}/roadmap.json with ${finalRoadmap.length} items.`,
+  );
 }
 
 async function generateContent(
