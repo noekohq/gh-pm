@@ -1,128 +1,128 @@
 [
   {
     "id": "PVTI_lADODsoyMM4BJ9pczgjemJM",
-    "title": "Launching Our Next-Generation Insights Platform",
-    "summary": "Our powerful new tool, previously available in beta, is now officially launched, empowering you with advanced capabilities for smarter decision-making.",
+    "title": "Introducing Spyglass",
+    "summary": "Discover powerful new insights with Spyglass, our innovative tool now officially launched and ready for everyone.",
     "status": "Shipped",
     "url": "https://github.com/noekohq/Noeko/issues/101",
     "labels": []
   },
   {
     "id": "PVTI_lADODsoyMM4BJ9pczgjCuVw",
-    "title": "Enhanced File Management",
-    "summary": "We've launched an intuitive file management system that gives you complete control over your embedded content, allowing you to easily upload, remove, download, and customize how files are displayed within your editor.",
+    "title": "Powerful File Management",
+    "summary": "Gain complete command over your embedded files and images directly within the editor, allowing you to easily organize, display, and interact with your content.",
     "status": "Shipped",
     "url": "https://github.com/noekohq/Noeko/issues/62",
     "labels": []
   },
   {
     "id": "PVTI_lADODsoyMM4BJ9pczgkCM6A",
-    "title": "Discover Our Dynamic Product Roadmap",
-    "summary": "Stay informed about our latest developments and future plans with our new, easy-to-navigate public product roadmap.",
+    "title": "Introducing Our Public Roadmap",
+    "summary": "Discover the journey ahead and celebrate recent milestones with our new public roadmap, clearly outlining what's done, what's next, and what's planned for later.",
     "status": "Shipped",
     "url": "https://github.com/noekohq/Noeko/issues/112",
     "labels": []
   },
   {
     "id": "PVTI_lADODsoyMM4BJ9pczgjDBW4",
-    "title": "Enhanced Checkboxes",
-    "summary": "Experience a smoother workflow with our enhanced checkboxes, now bigger, easier to click, and fully draggable, perfectly blending with our modern design.",
+    "title": "Effortless Checkboxes: Bigger, Draggable, and Beautiful",
+    "summary": "Experience a more fluid and visually appealing workflow with our enhanced checkboxes, now boasting improved clickability, effortless dragging, and a stunning, modern design.",
     "status": "Shipped",
     "url": "https://github.com/noekohq/Noeko/issues/77",
     "labels": []
   },
   {
     "id": "PVTI_lADODsoyMM4BJ9pczgjDA2w",
-    "title": "Elevated Collaboration Experience",
-    "summary": "We've made teamwork smoother and more intuitive, so you can collaborate with greater awareness and ease within the editor.",
+    "title": "Enhanced Real-time Collaboration",
+    "summary": "Experience seamless real-time collaboration with clearer indicators, making teamwork more intuitive and efficient.",
     "status": "Shipped",
     "url": "https://github.com/noekohq/Noeko/issues/76",
     "labels": []
   },
   {
     "id": "PVTI_lADODsoyMM4BJ9pczgjHmME",
-    "title": "Seamless Collaboration and Shared Discoveries",
-    "summary": "Experience enhanced collaboration and discovery with improved visibility and utility for all your shared items, making teamwork more seamless than ever.",
+    "title": "Effortless Discovery of Shared Content",
+    "summary": "We've made it simpler to discover all shared ideas and quests, empowering seamless collaboration and teamwork.",
     "status": "Shipped",
     "url": "https://github.com/noekohq/Noeko/issues/86",
     "labels": []
   },
   {
     "id": "PVTI_lADODsoyMM4BJ9pczgkCNMM",
-    "title": "Global Language Accessibility",
-    "summary": "We are expanding Noeko's reach by adding support for multiple international languages, making it accessible to users worldwide.",
+    "title": "Unlock New Languages Worldwide",
+    "summary": "We're expanding Noeko to support a diverse range of international languages, making our platform more accessible and intuitive for users globally.",
     "status": "Now",
     "url": "https://github.com/noekohq/Noeko/issues/113",
     "labels": []
   },
   {
     "id": "PVTI_lADODsoyMM4BJ9pczgocOxk",
-    "title": "Noeko Embraces Open Source",
-    "summary": "We're thrilled to open Noeko's codebase, empowering our community with greater control, direct involvement, and full transparency in the project's exciting evolution.",
+    "title": "Noeko Goes Open Source",
+    "summary": "Noeko is becoming open source, providing users with ultimate control, transparency, and a direct role in its future development.",
     "status": "Now",
     "url": "https://github.com/noekohq/Noeko/issues/169",
     "labels": []
   },
   {
     "id": "PVTI_lADODsoyMM4BJ9pczgjHlRw",
-    "title": "Intelligent Constellation View",
-    "summary": "Navigate your entire knowledge base with enhanced precision by applying powerful filters for tags, time, and shared items within the intelligent Constellation View.",
+    "title": "Personalized Knowledge Explorer",
+    "summary": "Unlock the full potential of your connected ideas with advanced filtering by tags, time, and shared insights, transforming your knowledge map into an indispensable workflow hub.",
     "status": "Next",
     "url": "https://github.com/noekohq/Noeko/issues/85",
     "labels": []
   },
   {
     "id": "PVTI_lADODsoyMM4BJ9pczgjBoBA",
-    "title": "Smart Search and Personalized Knowledge Collections",
-    "summary": "Revolutionize how you find and organize information by leveraging advanced search filters, flexible sorting, and the power to save your tailored results as custom knowledge collections.",
+    "title": "Advanced Search & Custom Views",
+    "summary": "Effortlessly narrow down your information with powerful new filtering and sorting options, and save your custom views for instant access to relevant content.",
     "status": "Next",
     "url": "https://github.com/noekohq/Noeko/issues/61",
     "labels": []
   },
   {
     "id": "PVTI_lADODsoyMM4BJ9pczgjC4Aw",
-    "title": "Dynamic Note Previews",
-    "summary": "Experience a more intuitive and dynamic way to organize and view your notes, making your connections clearer and more engaging.",
+    "title": "Dynamic Note Previews and Linking",
+    "summary": "Effortlessly integrate and preview related content directly within your notes, giving you powerful new ways to organize and visualize your ideas.",
     "status": "Next",
     "url": "https://github.com/noekohq/Noeko/issues/68",
     "labels": []
   },
   {
     "id": "PVTI_lADODsoyMM4BJ9pczgjDD4o",
-    "title": "Noeko: Self-Hosted Freedom, Powerful Paid Plans",
-    "summary": "Noeko now offers enhanced flexibility with new self-hosting options and powerful paid plans, empowering you to deploy and scale on your terms.",
+    "title": "Noeko: Self-Hosted Freedom and Flexible Plans",
+    "summary": "Noeko is launching soon, offering the flexibility of self-hosting alongside new premium plans tailored for both individuals and enterprises.",
     "status": "Next",
     "url": "https://github.com/noekohq/Noeko/issues/78",
     "labels": []
   },
   {
     "id": "PVTI_lADODsoyMM4BJ9pczgjHko4",
-    "title": "Elevate Your Style with New & Improved Themes",
-    "summary": "We're enhancing your experience with beautifully refined existing themes and a vibrant collection of exciting new designs, offering unparalleled personalization.",
+    "title": "Elevate Your Experience with Fresh Themes",
+    "summary": "We're enhancing our current themes and introducing exciting new options to personalize your Noeko experience.",
     "status": "Next",
     "url": "https://github.com/noekohq/Noeko/issues/84",
     "labels": []
   },
   {
     "id": "PVTI_lADODsoyMM4BJ9pczgjeI8o",
-    "title": "Smarter Time-Based Greetings",
-    "summary": "We're refining our app's greetings to precisely match the time of day, ensuring a more welcoming and accurate user experience for everyone.",
+    "title": "Improved Greeting Accuracy",
+    "summary": "We're enhancing the application to ensure your welcome greetings always accurately reflect the time of day, providing a more personalized and precise experience.",
     "status": "Next",
     "url": "https://github.com/noekohq/Noeko/issues/100",
     "labels": []
   },
   {
     "id": "PVTI_lADODsoyMM4BJ9pczgma0zY",
-    "title": "Effortless Tag Organization",
-    "summary": "Effortlessly manage multiple tagged items by performing actions like unapplying tags and deleting entries directly from the tag view, saving you valuable time and clicks.",
+    "title": "Streamlined Tag Management",
+    "summary": "Effortlessly manage your tagged items by performing key actions, such as unapplying tags, directly within any tag's list view, saving you valuable time and simplifying organization.",
     "status": "Next",
     "url": "https://github.com/noekohq/Noeko/issues/156",
     "labels": []
   },
   {
     "id": "PVTI_lADODsoyMM4BJ9pczgocVrU",
-    "title": "Unlock Diverse Content Sources",
-    "summary": "Effortlessly bring in and interact with content from YouTube, websites, text files, and more, empowering you to consolidate all your valuable information in one place.",
+    "title": "Unlock More Content Types",
+    "summary": "Get ready to seamlessly import and interact with a wider variety of information, such as YouTube videos, web pages, and plain text, directly within your workspace.",
     "status": "Next",
     "url": "https://github.com/noekohq/Noeko/issues/170",
     "labels": []
